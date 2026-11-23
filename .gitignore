@@ -1,0 +1,9 @@
+# Build output
+/target/
+# Ready-built exes are published as GitHub releases, not committed
+/prebuilt/
+*.exe
+*.pdb
+# Scan output from testing
+*.xml
+*.csv

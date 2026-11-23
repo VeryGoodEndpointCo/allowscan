@@ -1,0 +1,3 @@
+// Windows resources: the app icon (ID 1, also used for the window) and the application manifest.
+1 ICON "allowscan.ico"
+1 24 "allowscan.manifest"
